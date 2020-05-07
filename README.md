@@ -5,3 +5,4 @@ Graph and network optimization -- Dijkstra algorithm  &amp;
 The shortest path problem with negative weight-- Table operation method &amp;  
 0-1 type integer linear programming -- implicit enumeration method
 Linear programming--big_M method  &amp;
+integer linear programming--assignment problem
